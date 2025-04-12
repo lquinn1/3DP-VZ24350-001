@@ -12,7 +12,7 @@
             "load": true,
             "prep": true,
             "tool_loaded": true,
-            "loaded_to_hub": true,
+            "loaded_to_hub": false,
             "material": null,
             "spool_id": "",
             "color": "",

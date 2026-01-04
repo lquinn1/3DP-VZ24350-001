@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "name": "mcu EBBCan",
+        "id": "fa95a4a89942",
+        "profile": "",
+        "method": "can",
+        "interface": "can0",
+        "notes": "",
+        "is_katapult": false,
+        "is_bridge": false,
+        "dfu_id": null,
+        "magic_baud_tested": false,
+        "use_magic_baud": false,
+        "dfu_exit_tested": false,
+        "use_dfu_exit": false
+    }
+]
